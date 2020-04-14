@@ -17,7 +17,6 @@
     "react-dom": "^16.13.1",
     "react-router-dom": "^5.1.2",
     "react-scripts": "^3.4.1",
-    "npm":"6.10.3",
     "node":"12.10.0"
   },
   "scripts": {
